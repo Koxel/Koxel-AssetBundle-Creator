@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1397670585
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: koxel_models
+      Dependencies: {}
