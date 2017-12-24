@@ -1,5 +1,5 @@
-# Koxel-AssetPack-Creator
-Unity project to create AssetPacks for mods.
+# Koxel-AssetBundle-Creator
+Unity project to create AssetBundle for mods.
 
 ## How to use  
 0. Open this project with Unity, I last used 2017.3 but use any version on your own risk (advised is to at least use 5.6 or higher)
