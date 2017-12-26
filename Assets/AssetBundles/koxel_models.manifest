@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1074707609
+CRC: 2426012414
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 65b2334557f2ccd7ae5907aa171d4706
+    Hash: 09767054786d32a5480de51444f8c883
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 7f74dd6718ea1e81b432a9fbe453335c
+    Hash: cae1ffebe17c87574588caff53f27f76
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -23,6 +23,8 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
 - Class: 74
   Script: {instanceID: 0}
 - Class: 90
@@ -30,7 +32,14 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 Assets:
+- Assets/Mod/Models/Materials/Rock.mat
 - Assets/Mod/Models/Tree.blend
+- Assets/Mod/Models/Materials/TreeGreen.mat
+- Assets/Mod/Models/TreeStump.blend
 - Assets/Mod/Models/Pebble.blend
 - Assets/Mod/Models/BigRock.blend
+- Assets/Mod/Models/BlueTree.blend
+- Assets/Mod/Models/Materials/TreeBrown 1.mat
+- Assets/Mod/Models/Materials/TreeBrown.mat
+- Assets/Mod/Models/Materials/TreeGreen 1.mat
 Dependencies: []

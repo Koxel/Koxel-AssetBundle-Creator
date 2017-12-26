@@ -1,19 +1,30 @@
 fileFormatVersion: 2
 guid: 89fbd58922d424e4da6d0acf7bd6e021
-timeCreated: 1514133350
+timeCreated: 1514217442
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Rock_01_LOD0
     400000: //RootNode
-    2100000: Rock_007
+    400002: Rock_01_LOD0
+    2100000: Rock
     2300000: //RootNode
+    2300002: Rock_01_LOD0
     3300000: //RootNode
+    3300002: Rock_01_LOD0
     4300000: Rock_01_LOD0
+    6400000: //RootNode
+    6400002: Rock_01_LOD0
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: 445f28d033c8b084192e0d521c934b02, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -45,7 +56,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -68,7 +79,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -84,10 +95,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 0
+    hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

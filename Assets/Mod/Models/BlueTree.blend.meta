@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: b1f24f01cbc684f4ca032649cba6bced
-timeCreated: 1514217339
+guid: c6f3a22a64f86d144af0312bb04b542a
+timeCreated: 1514218320
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Branch_Untitled
-    100002: //RootNode
+    100000: //RootNode
+    100002: Branch_Untitled
     100004: Tree_001_Tree
     100006: Tree_002_TreeLeaves
-    400000: Branch_Untitled
-    400002: //RootNode
+    400000: //RootNode
+    400002: Branch_Untitled
     400004: Tree_001_Tree
     400006: Tree_002_TreeLeaves
     2100000: TreeGreen
@@ -34,12 +34,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TreeBrown
-    second: {fileID: 2100000, guid: e1ad97eb1b301164ab530444f8a7ca9a, type: 2}
+    second: {fileID: 2100000, guid: 6a4da77acf151a540a8b28fa673acd61, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TreeGreen
-    second: {fileID: 2100000, guid: 7c1dfe084d7cea64a97bb6534e520aac, type: 2}
+    second: {fileID: 2100000, guid: 6e60d19f65b770644899b33195a2496f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -94,7 +94,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
@@ -110,10 +110,10 @@ ModelImporter:
     rootMotionBoneName: 
     rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
-    hasExtraRoot: 1
+    hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

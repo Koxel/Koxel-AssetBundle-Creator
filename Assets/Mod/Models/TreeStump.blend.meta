@@ -1,32 +1,21 @@
 fileFormatVersion: 2
-guid: b1f24f01cbc684f4ca032649cba6bced
-timeCreated: 1514217339
+guid: e4b16f3996ba2314da53aa001fb5f53a
+timeCreated: 1514217835
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Branch_Untitled
-    100002: //RootNode
-    100004: Tree_001_Tree
-    100006: Tree_002_TreeLeaves
-    400000: Branch_Untitled
-    400002: //RootNode
-    400004: Tree_001_Tree
-    400006: Tree_002_TreeLeaves
-    2100000: TreeGreen
-    2100002: TreeBrown
-    2300000: Branch_Untitled
-    2300002: Tree_001_Tree
-    2300004: Tree_002_TreeLeaves
-    3300000: Branch_Untitled
-    3300002: Tree_001_Tree
-    3300004: Tree_002_TreeLeaves
-    4300000: Tree_002_TreeLeaves
-    4300002: Branch_Untitled
-    4300004: Tree_001_Tree
-    6400000: Branch_Untitled
-    6400002: Tree_001_Tree
-    6400004: Tree_002_TreeLeaves
+    100000: //RootNode
+    100002: TreeStump_01_LOD0
+    400000: //RootNode
+    400002: TreeStump_01_LOD0
+    2100000: TreeBrown
+    2300000: //RootNode
+    2300002: TreeStump_01_LOD0
+    3300000: //RootNode
+    3300002: TreeStump_01_LOD0
+    4300000: TreeStump_01_LOD0
+    6400000: TreeStump_01_LOD0
     7400000: Default Take
     9500000: //RootNode
   externalObjects:
@@ -35,11 +24,6 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: TreeBrown
     second: {fileID: 2100000, guid: e1ad97eb1b301164ab530444f8a7ca9a, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: TreeGreen
-    second: {fileID: 2100000, guid: 7c1dfe084d7cea64a97bb6534e520aac, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
